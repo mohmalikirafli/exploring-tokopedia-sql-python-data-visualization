@@ -20,12 +20,11 @@
 |       └── df.xlsx
 ├── Python
 |   ├── Dashboard
-|   |   └── Dashboard.pdf
-|   └── Data
-|       ├── customer_detail.csv
-|       ├── order_detail.csv
-|       ├── payment_detail.csv
-|       └── sku_detail.csv
+|   |   ├── customer_detail.csv
+|   |   ├── order_detail.csv
+|   |   ├── payment_detail.csv
+|   |   └── sku_detail.csv
+|   └── Exploring_Tokopedia_E_Commerce_Data.ipynb
 ├── SQL
 |   ├── Data
 |   |   ├── customer_detail.csv
@@ -34,28 +33,6 @@
 |   |   └── sku_detail.csv
 |   ├── Note SQL.docx
 |   └── query.sql 
-├── LICENSE
-|   └── README.md
-|       ├── customer_detail.csv
-|       ├── order_detail.csv
-|       ├── payment_detail.csv
-|       └── sku_detail.csv
-|   ├── 01_Peta Kasus Kusta (Y).png
-|   ├── 02_Peta Kepadatan Penduduk (X1).png
-|   ├── 03_Peta Rumah Sehat (X2).png
-|   ├── 04_Peta Air Minum Aman (X3).png
-|   ├── 05_Peta Tempat dan Fasilitas Umum (X4).png
-|   └── 06_Peta Sanitasi Layak (X5).png
-├── Output
-│   ├── Koef.csv
-│   ├── Matriks Pembobot Fix Gaussian fixx.csv
-│   ├── Output dari Syntax
-│   ├── Z.csv
-|   └── jarak euclidean fix.csv
-├── Syntax Program R
-|   ├── Syntax GWNBR.R
-|   ├── Syntax Statistika Deskriptif.R
-|   └── Syntax Uji Asumsi Spasial.R
 ├── LICENSE
 └── README.md
 ```
