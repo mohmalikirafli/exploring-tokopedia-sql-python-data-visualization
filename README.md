@@ -26,6 +26,20 @@
 |       ├── order_detail.csv
 |       ├── payment_detail.csv
 |       └── sku_detail.csv
+├── SQL
+|   ├── Data
+|   |   ├── customer_detail.csv
+|   |   ├── order_detail.csv
+|   |   ├── payment_detail.csv
+|   |   └── sku_detail.csv
+|   ├── Note SQL.docx
+|   └── query.sql 
+├── LICENSE
+|   └── README.md
+|       ├── customer_detail.csv
+|       ├── order_detail.csv
+|       ├── payment_detail.csv
+|       └── sku_detail.csv
 |   ├── 01_Peta Kasus Kusta (Y).png
 |   ├── 02_Peta Kepadatan Penduduk (X1).png
 |   ├── 03_Peta Rumah Sehat (X2).png
